@@ -10,7 +10,6 @@ Ejemplo de salida:
 
 Origen: 4792412198       Destino: 4751724124
 Distancia Dijkstra: 7481.3790000000035
---- 0.06710267066955566 segundos ---
+0.06710267066955566 segundos
 Distancia Bellman Ford: 7481.3790000000035
---- 2.84413480758667 segundos ---
------------------------------
+2.84413480758667 segundos
